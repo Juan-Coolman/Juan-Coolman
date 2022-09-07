@@ -18,7 +18,7 @@
 
 <div align="left">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&username=ErickMarllon" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&username=Juan-Coolman" height="150" alt="languages graph"  />
 </div>
 
 <br>
