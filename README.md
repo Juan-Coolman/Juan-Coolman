@@ -1,6 +1,6 @@
 <h1 align="left">Olá! Sou Juan Angelo.</h1>
 
-<p align="left">Iniciante✌️<br><br>Cursando Analise e Desenvolvimento de Sistemas.</p>
+<p align="left">Iniciante✌️<br><br>Cursando Redes de Computadores.</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/juan-angelo-de-oliveira-santos-141b3924a/" target="_blank">
